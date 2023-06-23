@@ -1,2 +1,2 @@
-# python-deps-test
-This repo is to test organization access of the repo
+# python-deps
+This repository is a test python project
